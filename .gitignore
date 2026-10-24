@@ -1,0 +1,10 @@
+
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+chroma_db/
+.DS_Store
+app_backup.py
+
